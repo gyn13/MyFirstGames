@@ -106,3 +106,9 @@ InitTestScene*.unity*
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+
+# Unity WebGL builds
+/WebGLBuilds/
+
+# Unity generated build data folders
+/CourseGames/The Pit/*_Data/
